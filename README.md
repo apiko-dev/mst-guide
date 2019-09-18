@@ -2,17 +2,17 @@
 
 ## Зміст
 
-1. [Вступ](manuscripts/01_introduction.md)
-2. [Огляд прикладу застосунку](manuscripts/02_example_application_overview.md)
-3. [Моделі](manuscripts/03_models.md)
-4. [Екшени](manuscripts/04_actions.md)
-5. [В'юхи](manuscripts/05_views.md)
-6. [Корінна модель](manuscripts/06_root_model.md)
-7. [Посилання](manuscripts/07_references.md)
-8. [Робота з снепшотами](manuscripts/08_on_snapshot_apply_snapshot)
-9. [Взаємодія з сервером (асинхронні екшени)](manuscripts/server_interactions_async_actions.md)
-10. [Зворотні посилання](manuscripts/10_backreferences.md)
-11. [Колекції](manuscripts/11_collections.md)
+1. [Вступ](manuscript/01_introduction.md)
+2. [Огляд прикладу застосунку](manuscript/02_example_application_overview.md)
+3. [Моделі](manuscript/03_models.md)
+4. [Екшени](manuscript/04_actions.md)
+5. [В'юхи](manuscript/05_views.md)
+6. [Корінна модель](manuscript/06_root_model.md)
+7. [Посилання](manuscript/07_references.md)
+8. [Робота з снепшотами](manuscript/08_on_snapshot_apply_snapshot)
+9. [Взаємодія з сервером (асинхронні екшени)](manuscript/server_interactions_async_actions.md)
+10. [Зворотні посилання](manuscript/10_backreferences.md)
+11. [Колекції](manuscript/11_collections.md)
 
 ## Ідеї
 
