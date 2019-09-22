@@ -17,11 +17,12 @@
 9. [Взаємодія з сервером (асинхронні екшени)](manuscript/server_interactions_async_actions.md)
 10. [Зворотні посилання](manuscript/10_backreferences.md)
 11. [Колекції](manuscript/11_collections.md)
+12. Нормалізація на прикладі normalizr
 
 ## Ідеї
 
 - Робота з React
-- Фабрики (async action, list model)
+- Фабрики (колекції, entities, async action, list model)
 - Реакції та autorun, локальний стан
 - Композиція, наслідування
 - Власні типи
