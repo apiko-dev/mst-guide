@@ -27,7 +27,7 @@ const TodoListModel = types.model({
       title,
     };
 
-    // для того щоб додати тудушку в масив із TodoModel
+    // для того щоб додати задачу в масив із TodoModel
     // нам потрібно було б її створити
     // const todoNode = TodoModel.create(todo);
     // self.list.unshift(todoNode);
@@ -54,7 +54,7 @@ const TodoModel = types.model({
 }));
 ```
 
-Давайте створимо пару тудушок та змінимо їх `isCompleted` поля, попутно логуючи всі зміни за допомогою функції [autorun](https://mobx.js.org/refguide/autorun.html), яку нам надає `mobx`
+Давайте створимо пару задач та змінимо їх `isCompleted` поля, попутно логуючи всі зміни за допомогою функції [autorun](https://mobx.js.org/refguide/autorun.html), яку нам надає `mobx`
 
 ```js
 const todoList = TodoListModel.create({});
